@@ -1,4 +1,6 @@
-package pl.juliandzialak;
+package pl.juliandzialak.window;
+
+import pl.juliandzialak.window.Window;
 
 public class WindowRepo {
     Window[] windows = new Window[10];

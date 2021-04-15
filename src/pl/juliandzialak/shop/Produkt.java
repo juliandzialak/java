@@ -1,4 +1,4 @@
-package pl.juliandzialak;
+package pl.juliandzialak.shop;
 
 public class Produkt {
     char[] nazwa;

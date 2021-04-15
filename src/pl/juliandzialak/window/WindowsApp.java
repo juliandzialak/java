@@ -1,4 +1,4 @@
-package pl.juliandzialak;
+package pl.juliandzialak.window;
 
 public class WindowsApp {
     public static void main(String[] args) {

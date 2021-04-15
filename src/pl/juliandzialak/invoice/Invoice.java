@@ -1,4 +1,4 @@
-package pl.juliandzialak;
+package pl.juliandzialak.invoice;
 
 public class Invoice {
     private int number;

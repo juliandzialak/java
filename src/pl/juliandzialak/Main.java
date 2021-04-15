@@ -1,5 +1,7 @@
 package pl.juliandzialak;
 
+import pl.juliandzialak.invoice.Invoice;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Metoda startowa....");
